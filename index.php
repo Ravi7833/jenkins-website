@@ -24,7 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1>Congratulations!</h1>
-        <p>Welcome to PRITI Solutions Pvt.Ltd. <emb>AWS</emb> Certification Progoram</p>
+        <p>Welcome to TechMahindra Solutions Pvt.Ltd. <emb>AWS</emb> Certification Progoram</p>
         <p>You are Attending AWS Certified Solutions Architect - Associate training Progoram </p>
     </section>
 
